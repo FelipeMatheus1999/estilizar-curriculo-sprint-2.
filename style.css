@@ -1,0 +1,41 @@
+li {
+    color: solid black;
+    font-family: 'Open Sans', sans-serif;
+    width: 100px;
+    padding: 2px;
+}
+
+i[class="fab fa-linkedin"] {
+    color: rgb(27, 27, 223);
+}
+
+i[class="fab fa-github"] {
+    color: rgb(24, 24, 29);
+}
+
+i[class="fab fa-facebook"] {
+    color: rgb(38, 38, 150);
+}
+
+i[class="fab fa-youtube"] {
+    color: rgb(223, 25, 11);
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.sectionWebSocial {
+    background-color: rgb(230, 227, 227);
+    height: 180px;
+    width: 500px;
+    margin: 50px;
+    box-shadow: 5px 5px 15px 5px rgb(219, 211, 206); 
+}
+
